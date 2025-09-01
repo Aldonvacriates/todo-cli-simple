@@ -20,7 +20,7 @@ This version stores tasks only in memory (using a Python list) and demonstrates 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-cli-simple.git
+   git clone https://github.com/Aldonvacriates/todo-cli-simple.git
    cd todo-cli-simple
 Run the app:
 
