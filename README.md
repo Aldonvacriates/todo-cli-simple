@@ -7,12 +7,12 @@ This version stores tasks only in memory (using a Python list) and demonstrates 
 
 ## ✨ Features
 
-- ➕ Add tasks
-- 👀 View tasks
-- 🗑️ Delete tasks
-- 🚪 Quit the application
-- ⚠️ Input validation with helpful error messages
-- 🛡️ Error handling using `try`, `except`, `else`, and `finally`
+- ➕ Add tasks  
+- 👀 View tasks  
+- 🗑️ Delete tasks  
+- 🚪 Quit the application  
+- ⚠️ Input validation with helpful error messages  
+- 🛡️ Error handling using `try`, `except`, `else`, and `finally`  
 
 ---
 
@@ -20,7 +20,7 @@ This version stores tasks only in memory (using a Python list) and demonstrates 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aldonvacriates/todo-cli-simple.git
+   git clone https://github.com/yourusername/todo-cli-simple.git
    cd todo-cli-simple
 Run the app:
 
@@ -45,12 +45,10 @@ Example Workflow
 Add Task
 
 
-Copy code
 ➕ Add a Task
 Enter task description: Finish homework
 ✅ Task added: 'Finish homework'
 View Tasks
-
 
 
 👀 View Tasks
